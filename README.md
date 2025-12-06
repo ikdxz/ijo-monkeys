@@ -46,7 +46,7 @@ Here are some subdomains used in the project:
 
 Here is the schema of the __domain structure__:
 
-![AD Structure](img/image60.png)
+![AD Structure](img/ad.png)
 
 In addition, here are some interesting GPOs applied to users:
 
